@@ -2,8 +2,8 @@ version: "3.8"
 
 services:
   Docker:
-    image: demo1
-    container_name: demo2_c
+    image: demo
+    container_name: demo_c
     ports:
       - 3000:6040
     working_dir: /app
