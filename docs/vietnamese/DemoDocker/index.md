@@ -1,6 +1,6 @@
 # Documentation: DemoDocker
 
-**DemoDocker** là một dự án giúp bạn dễ dàng dự đoán hình ảnh là *mèo* hay *chó* thông qua một ứng dụng web đơn giản sử dụng **Flask**. Ứng dụng này nhận ảnh từ người dùng, xử lý và sử dụng *mô hình học máy* đã huấn luyện để phân loại. Toàn bộ hệ thống được **đóng gói bằng Docker**, giúp triển khai nhanh chóng và chạy ổn định trên mọi máy tính mà không cần cài đặt phức tạp.
+**DemoDocker** là một dự án thử nghiệm giúp bạn dễ dàng dự đoán hình ảnh là *mèo* hay *chó* thông qua một ứng dụng web đơn giản sử dụng **Flask**. Ứng dụng này nhận ảnh từ người dùng, xử lý và sử dụng *mô hình học máy* đã huấn luyện để phân loại. Toàn bộ hệ thống được **đóng gói bằng Docker**, giúp triển khai nhanh chóng và chạy ổn định trên mọi máy tính mà không cần cài đặt phức tạp.
 
 
 ```mermaid
